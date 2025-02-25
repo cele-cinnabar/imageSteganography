@@ -40,3 +40,12 @@ if password == pas:
     print("Decryption message:", message)
 else:
     print("YOU ARE NOT AUTHORIZED")
+
+
+
+
+output:
+Enter secret message: hello
+Enter a passcode: 1234
+Enter passcode for Decryption: 1234
+Decryption message: hello
